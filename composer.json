@@ -9,7 +9,12 @@
   ],
   "require": {
     "johnpbloch/wordpress": "^6.0",
-    "wpackagist-plugin/wp-migrate-db": "*"
+    "wpackagist-plugin/wp-migrate-db": "*",
+    "wpackagist-plugin/flamingo": "^2.3",
+    "wpackagist-plugin/contact-form-7": "^5.6",
+    "wpackagist-plugin/advanced-custom-fields": "^6.0",
+    "wpackagist-plugin/webp-express": "^0.25.5",
+    "wpackagist-plugin/w3-total-cache": "^2.2"
   },
   "config": {
     "allow-plugins": {
